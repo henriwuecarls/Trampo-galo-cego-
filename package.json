@@ -1,8 +1,8 @@
-
 {
-  "name": "troopa-do-galo-painel",
+  "name": "trampo-galo-cego",
   "version": "1.0.0",
-  "description": "Painel administrativo e aplicativo de produção e pagamentos TROOPA DO GALO",
+  "private": true,
+  "description": "Painel administrativo TROOPA DO GALO",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
